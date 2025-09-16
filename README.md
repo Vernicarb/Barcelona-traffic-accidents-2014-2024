@@ -37,13 +37,14 @@ It demonstrates an **end-to-end analytics workflow**: from cleaning and merging 
 Explore the key interactive visualizations for this project:
 
 - **Cluster Hotspots (Gradient Map)**  
-  [🔗 View Map 1](https://vernicarb.github.io/barcelona-traffic-accidents-2014-2024/maps/1-mapa_cluster_gradiente.html)
+  [🔗 View Map 1](https://vernicarb.github.io/Barcelona-traffic-accidents-2014-2024/maps/1-mapa_cluster_gradiente.html)
 
 - **Hourly Accident Heatmap (with Time Slider)**  
-  [🔗 View Map 3](https://vernicarb.github.io/barcelona-traffic-accidents-2014-2024/maps/3-heatmap_accidentes_por_hora.html)
+  [🔗 View Map 3](https://vernicarb.github.io/Barcelona-traffic-accidents-2014-2024/maps/3-heatmap_accidentes_por_hora.html)
 
 - **Weekly Accident Heatmap (by Day of Week)**  
-  [🔗 View Map 4](https://vernicarb.github.io/barcelona-traffic-accidents-2014-2024/maps/4-mapa_calor_accidentes_por_dia.html)
+  [🔗 View Map 4](https://vernicarb.github.io/Barcelona-traffic-accidents-2014-2024/maps/4-mapa_calor_accidentes_por_dia.html)
+
 
 ---
 
