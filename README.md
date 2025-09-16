@@ -57,7 +57,8 @@ Explore the full interactive data story:
 ## 📑 Project Report
 
 For a detailed summary, view the full project report:  
-[📄 Download PDF](https://github.com/Vernicarb/barcelona-traffic-accidents-2014-2024/raw/main/barcelona-traffic-accidents-report.pdf)
+[📄 Download PDF](https://github.com/Vernicarb/barcelona-traffic-accidents-2014-2024/raw/main/barcelona-traffic-accidents-report-2014-2024.pdf)
+
 
 
 ---
