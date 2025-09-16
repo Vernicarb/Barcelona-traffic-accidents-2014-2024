@@ -56,8 +56,8 @@ Explore the full interactive data story:
 
 ## 📑 Project Report
 
-For a detailed summary view the full project report:  
-[📄 Download PDF](Análisis de la siniestralidad en Barcelona 2014- 2024-3.pdf)
+For a detailed summary, view the full project report:  
+[📄 Download PDF](https://github.com/Vernicarb/barcelona-traffic-accidents-2014-2024/raw/main/barcelona-traffic-accidents-report.pdf)
 
 ---
 
