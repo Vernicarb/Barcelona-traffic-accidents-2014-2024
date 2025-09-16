@@ -26,13 +26,13 @@ It demonstrates an **end-to-end analytics workflow**: from cleaning and merging 
 
 - **Language:** Python 3, Jupyter Notebook  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, GeoPandas, Folium, OSMnx, Shapely  
-- **Visualization:** Plotly Express, Folium (interactive maps), Power BI  
+- **Visualization:** Plotly Express, Folium (interactive maps)
 - **Data Sources:** Open Data BCN (Guardia Urbana accident datasets)  
 - **Other Tools:** Overpass API (POI extraction)
 
 ---
 
-## 🌍 Interactive Maps & Storytelling
+## 🌍 Interactive Maps
 
 Explore the key interactive visualizations for this project:
 
@@ -47,7 +47,7 @@ Explore the key interactive visualizations for this project:
 
 ---
 
-## 📈 Interactive Story (Flourish)
+## 📈 Interactive Graph (Flourish)
 
 Explore the full interactive data story:  
 [🔗 View Flourish Story](https://public.flourish.studio/story/3162925/)
@@ -58,8 +58,6 @@ Explore the full interactive data story:
 
 For a detailed summary, view the full project report:  
 [📄 Download PDF](https://github.com/Vernicarb/barcelona-traffic-accidents-2014-2024/raw/main/barcelona-traffic-accidents-report-2014-2024.pdf)
-
-
 
 ---
 
